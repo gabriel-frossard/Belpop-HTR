@@ -5,3 +5,9 @@ This project aims to extract all the information gathered in civil records of th
 The Belpop pipeline is as following : 
 
 raw scans --> ROI segmentation --> Handwritten Text Recognition (HTR)
+
+Death Records : 
+
+
+
+Birth Records : 
